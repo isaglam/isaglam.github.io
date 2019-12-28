@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Stratis Tsirtsis"
   avatar           : "profile.png"
-  bio              : "PhD Student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/)"
+  bio              : "PhD Student at the <a style='color: black;' href='https://mpi-sws.org'>Max Planck Institute for Software Systems</a>"
   location         : "Kaiserslautern, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
