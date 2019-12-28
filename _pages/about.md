@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Under construction..."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Under construction...
+![Under construction...](/images/construction.png "Under construction...")
