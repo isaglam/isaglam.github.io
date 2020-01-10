@@ -13,7 +13,7 @@ Hey there! I am Stratis, 1st-year PhD student at the [Max Planck Institute for S
 Currently, I am mainly interested in algorithmic challenges arising when applying machine learning in social contexts where humans behave strategically. More generally, I enjoy using elements of Machine Learning, Optimization and Algorithmic Game Theory in real-world applications.
 
 ### Trivia
-* My academic roots can be found at the School of Electrical & Computer Engineering of the National Technical University of Athens. During my undergraduate studies there, I had the chance to work with [Prof. Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/) on data mining and recommendation aspects of the Orienteering Problem.
+* My academic roots can be found at the [School of Electrical & Computer Engineering](https://www.ece.ntua.gr/en) of the [National Technical University of Athens](https://www.ntua.gr/en/). During my undergraduate studies there, I had the chance to work with [Prof. Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/) on data mining and recommendation aspects of the Orienteering Problem.
 * My life roots can be found at the Greek island of [Lesvos](https://www.lesvos.com/index.html).
 
 ### Publications
