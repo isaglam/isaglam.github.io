@@ -18,4 +18,4 @@ Currently, I am mainly interested in algorithmic challenges arising when applyin
 
 ### Publications
 1. [Optimal Decision Making Under Strategic Behavior](https://arxiv.org/abs/1905.09239) (arXiv preprint)  
-  Behzad Tabibian, Stratis Tsirtsis, Moein Khajehnejad, Adish Singla, Bernhard Schölkopf, Manuel Gomez-Rodriguez 
+  Behzad Tabibian, Stratis Tsirtsis, Moein Khajehnejad, Adish Singla, Bernhard Schölkopf and Manuel Gomez-Rodriguez 
