@@ -17,5 +17,8 @@ Currently, I am mainly interested in algorithmic challenges arising when applyin
 * My life roots can be found at the Greek island of [Lesvos](https://www.lesvos.com/index.html).
 
 ### Publications
+1. [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333) (arXiv preprint)  
+  Stratis Tsirtsis and Manuel Gomez-Rodriguez
 1. [Optimal Decision Making Under Strategic Behavior](https://arxiv.org/abs/1905.09239) (arXiv preprint)  
   Behzad Tabibian, Stratis Tsirtsis, Moein Khajehnejad, Adish Singla, Bernhard Schölkopf and Manuel Gomez-Rodriguez 
+  
