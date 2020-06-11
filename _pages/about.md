@@ -15,10 +15,10 @@ Hey there! I am Stratis, 1st-year PhD student at the [Max Planck Institute for S
 * My life roots can be found at the Greek island of [Lesvos](https://www.lesvos.com/index.html).
 
 ### Publications
-1. [A Spatiotemporal Epidemic Model to Quantify the Effects of Contact Tracing, Testing, and Containment](https://arxiv.org/abs/2004.07641) (arXiv preprint)
-   Lars Lorch, William Trouleau, Stratis Tsirtsis, Aron Szanto, Bernhard Schölkopf and Manuel Gomez-Rodriguez
+1. [A Spatiotemporal Epidemic Model to Quantify the Effects of Contact Tracing, Testing, and Containment](https://arxiv.org/abs/2004.07641) (arXiv preprint)  
+  Lars Lorch, William Trouleau, Stratis Tsirtsis, Aron Szanto, Bernhard Schölkopf and Manuel Gomez-Rodriguez
 1. [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333) (arXiv preprint)  
-   Stratis Tsirtsis and Manuel Gomez-Rodriguez
+  Stratis Tsirtsis and Manuel Gomez-Rodriguez
 1. [Optimal Decision Making Under Strategic Behavior](https://arxiv.org/abs/1905.09239) (arXiv preprint)  
-   Behzad Tabibian, Stratis Tsirtsis, Moein Khajehnejad, Adish Singla, Bernhard Schölkopf and Manuel Gomez-Rodriguez 
+  Behzad Tabibian, Stratis Tsirtsis, Moein Khajehnejad, Adish Singla, Bernhard Schölkopf and Manuel Gomez-Rodriguez 
   
