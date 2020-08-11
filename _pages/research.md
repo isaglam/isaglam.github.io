@@ -11,10 +11,10 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-### Working papers
-1. [A Spatiotemporal Epidemic Model to Quantify the Effects of Contact Tracing, Testing, and Containment](https://arxiv.org/abs/2004.07641) 
+### Preprints
+1. [A Spatiotemporal Epidemic Model to Quantify the Effects of Contact Tracing, Testing, and Containment](https://arxiv.org/abs/2004.07641)  
   Lars Lorch, William Trouleau, Stratis Tsirtsis, Aron Szanto, Bernhard Schölkopf and Manuel Gomez-Rodriguez
-1. [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333)
+1. [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333)  
   Stratis Tsirtsis and Manuel Gomez-Rodriguez
 1. [Optimal Decision Making Under Strategic Behavior](https://arxiv.org/abs/1905.09239)  
   Behzad Tabibian, Stratis Tsirtsis, Moein Khajehnejad, Adish Singla, Bernhard Schölkopf and Manuel Gomez-Rodriguez 
