@@ -20,9 +20,9 @@ author_profile: true
   Stratis Tsirtsis, Behzad Tabibian, Moein Khajehnejad, Adish Singla, Bernhard Schölkopf and Manuel Gomez-Rodriguez 
 
 ### Workshop papers
-1. [Decisions, Counterfactual Explanations and Strategic Behavior]()  
+1. Decisions, Counterfactual Explanations and Strategic Behavior  
   *4th Workshop on Mechanism Design for Social Good, Virtual, August 2020*  
   Stratis Tsirtsis and Manuel Gomez-Rodriguez
-1. [Fairness and Discrimination in Mechanism Design and Machine Learning](https://crcs.seas.harvard.edu/files/crcs/files/ai4sg_2020_paper_28.pdf)  
+1. Fairness and Discrimination in Mechanism Design and Machine Learning  
   *AI for Social Good Workshop, Virtual, July 2020*  
   Jessie Finocchiaro, Roland Maio, Faidra Monachou, Gourab K Patro, Manish Raghavan, Ana-Andreea Stoica and Stratis Tsirtsis
