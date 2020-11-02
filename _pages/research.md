@@ -12,7 +12,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 ### Preprints
-1. [Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness](https://arxiv.org/abs/2004.07641)  
+1. [Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness](https://arxiv.org/abs/2010.05434)  
   Jessie Finocchiaro, Roland Maio, Faidra Monachou, Gourab K Patro, Manish Raghavan, Ana-Andreea Stoica and Stratis Tsirtsis  
 1. [Quantifying the Effects of Contact Tracing, Testing, and Containment Measures in the Presence of Infection Hotspots](https://arxiv.org/abs/2004.07641)  
   Lars Lorch, Heiner Kremer, William Trouleau, Stratis Tsirtsis, Aron Szanto, Bernhard Schölkopf and Manuel Gomez-Rodriguez
