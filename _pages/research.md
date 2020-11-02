@@ -12,7 +12,9 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 ### Preprints
-1. [Quantifying the Effects of Contact Tracing, Testing, and Containment](https://arxiv.org/abs/2004.07641)  
+1. [Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness](https://arxiv.org/abs/2004.07641)  
+  Jessie Finocchiaro, Roland Maio, Faidra Monachou, Gourab K Patro, Manish Raghavan, Ana-Andreea Stoica and Stratis Tsirtsis  
+1. [Quantifying the Effects of Contact Tracing, Testing, and Containment Measures in the Presence of Infection Hotspots](https://arxiv.org/abs/2004.07641)  
   Lars Lorch, Heiner Kremer, William Trouleau, Stratis Tsirtsis, Aron Szanto, Bernhard Schölkopf and Manuel Gomez-Rodriguez
 1. [Optimal Decision Making Under Strategic Behavior](https://arxiv.org/abs/1905.09239)  
   Stratis Tsirtsis, Behzad Tabibian, Moein Khajehnejad, Adish Singla, Bernhard Schölkopf and Manuel Gomez-Rodriguez 
