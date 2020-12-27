@@ -12,8 +12,6 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 ### Preprints
-1. [Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness](https://arxiv.org/abs/2010.05434)  
-  Jessie Finocchiaro, Roland Maio, Faidra Monachou, Gourab K Patro, Manish Raghavan, Ana-Andreea Stoica and Stratis Tsirtsis  
 1. [Quantifying the Effects of Contact Tracing, Testing, and Containment Measures in the Presence of Infection Hotspots](https://arxiv.org/abs/2004.07641)  
   Lars Lorch, Heiner Kremer, William Trouleau, Stratis Tsirtsis, Aron Szanto, Bernhard Schölkopf and Manuel Gomez-Rodriguez
 1. [Optimal Decision Making Under Strategic Behavior](https://arxiv.org/abs/1905.09239)  
@@ -22,6 +20,9 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Conferences
+1. [Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness](https://arxiv.org/abs/2010.05434)  
+  *4th ACM Conference on Fairness, Accountability, and Transparency (FAccT), Virtual, March 2021*   
+  Jessie Finocchiaro, Roland Maio, Faidra Monachou, Gourab K Patro, Manish Raghavan, Ana-Andreea Stoica and Stratis Tsirtsis   
 1. [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333)  
   *34th Conference on Neural Information Processing Systems (NeurIPS), Virtual, December 2020*   
   Stratis Tsirtsis and Manuel Gomez-Rodriguez
