@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey there!"
+title: "About"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Stratis, 2nd-year PhD student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) where I am very fortunate to be advised by [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/index.html). I am mainly interested in the design of data-driven models and algorithms to inform human-centric decision-making. That includes challenges related to explainability, transparency & strategic behavior, causality and fairness in algorithmic decision-making systems. More broadly, I am interested in machine learning, optimization, mechanism design and their real-world applications.
+Hey there! I am Stratis, 2nd-year PhD student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) where I am very fortunate to be advised by [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/index.html). I am mainly interested in the design of data-driven models and algorithms to inform human-centric decision-making. That includes challenges related to explainability, transparency & strategic behavior, causality and fairness in algorithmic decision-making systems. More broadly, I am interested in machine learning, optimization, mechanism design and their real-world applications.
 
 ### Trivia
 * I am a member of the [MD4SG](https://www.md4sg.com/) working group on "Discrimination and Equality in Algorithmic Decision-Making".
