@@ -11,7 +11,11 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-### Preprints
+### arXiv e-prints
+1. [Counterfactual Explanations in Sequential Decision Making Under Uncertainty](https://arxiv.org/abs/2107.02776)  
+  Stratis Tsirtsis, Abir De and Manuel Gomez-Rodriguez 
+1. [Group Testing under Superspreading Dynamics](https://arxiv.org/abs/2106.15988)  
+  Stratis Tsirtsis, Abir De, Lars Lorch and Manuel Gomez-Rodriguez 
 1. [Quantifying the Effects of Contact Tracing, Testing, and Containment Measures in the Presence of Infection Hotspots](https://arxiv.org/abs/2004.07641)  
   Lars Lorch, Heiner Kremer, William Trouleau, Stratis Tsirtsis, Aron Szanto, Bernhard Schölkopf and Manuel Gomez-Rodriguez
 1. [Optimal Decision Making Under Strategic Behavior](https://arxiv.org/abs/1905.09239)  
@@ -19,7 +23,7 @@ author_profile: true
 
 <!-- ### Journals -->
 
-### Conferences
+### Conference proceedings
 1. [Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness](https://arxiv.org/abs/2010.05434)  
   *4th ACM Conference on Fairness, Accountability, and Transparency (FAccT), Virtual, March 2021*   
   Jessie Finocchiaro, Roland Maio, Faidra Monachou, Gourab K Patro, Manish Raghavan, Ana-Andreea Stoica and Stratis Tsirtsis   
@@ -28,6 +32,9 @@ author_profile: true
   Stratis Tsirtsis and Manuel Gomez-Rodriguez
   
 ### Workshops
+1. Counterfactual Explanations in Sequential Decision Making Under Uncertainty  
+  *ICML Workshop on Interpretable Machine Learning in Healthcare, Virtual, July 2021*  
+  Stratis Tsirtsis and Manuel Gomez-Rodriguez
 1. Decisions, Counterfactual Explanations and Strategic Behavior  
   *4th Workshop on Mechanism Design for Social Good (MD4SG), Virtual, August 2020*  
   Stratis Tsirtsis and Manuel Gomez-Rodriguez
