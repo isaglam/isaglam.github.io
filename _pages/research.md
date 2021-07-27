@@ -11,7 +11,7 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-### arXiv e-prints
+### arXiv
 1. [Counterfactual Explanations in Sequential Decision Making Under Uncertainty](https://arxiv.org/abs/2107.02776)  
   Stratis Tsirtsis, Abir De and Manuel Gomez-Rodriguez 
 1. [Group Testing under Superspreading Dynamics](https://arxiv.org/abs/2106.15988)  
@@ -24,10 +24,10 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Conference proceedings
-1. [Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness](https://arxiv.org/abs/2010.05434)  
+1. [Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness](https://dl.acm.org/doi/abs/10.1145/3442188.3445912)  
   *4th ACM Conference on Fairness, Accountability, and Transparency (FAccT), Virtual, March 2021*   
   Jessie Finocchiaro, Roland Maio, Faidra Monachou, Gourab K Patro, Manish Raghavan, Ana-Andreea Stoica and Stratis Tsirtsis   
-1. [Decisions, Counterfactual Explanations and Strategic Behavior](https://arxiv.org/abs/2002.04333)  
+1. [Decisions, Counterfactual Explanations and Strategic Behavior](https://papers.nips.cc/paper/2020/hash/c2ba1bc54b239208cb37b901c0d3b363-Abstract.html)  
   *34th Conference on Neural Information Processing Systems (NeurIPS), Virtual, December 2020*   
   Stratis Tsirtsis and Manuel Gomez-Rodriguez
   
