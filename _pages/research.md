@@ -34,7 +34,7 @@ author_profile: true
 ### Workshops
 1. Counterfactual Explanations in Sequential Decision Making Under Uncertainty  
   *ICML Workshop on Interpretable Machine Learning in Healthcare, Virtual, July 2021*  
-  Stratis Tsirtsis and Manuel Gomez-Rodriguez
+  Stratis Tsirtsis, Abir De and Manuel Gomez-Rodriguez
 1. Decisions, Counterfactual Explanations and Strategic Behavior  
   *4th Workshop on Mechanism Design for Social Good (MD4SG), Virtual, August 2020*  
   Stratis Tsirtsis and Manuel Gomez-Rodriguez
