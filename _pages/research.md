@@ -12,8 +12,6 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 ### arXiv
-1. [Counterfactual Explanations in Sequential Decision Making Under Uncertainty](https://arxiv.org/abs/2107.02776)  
-  Stratis Tsirtsis, Abir De and Manuel Gomez-Rodriguez 
 1. [Group Testing under Superspreading Dynamics](https://arxiv.org/abs/2106.15988)  
   Stratis Tsirtsis, Abir De, Lars Lorch and Manuel Gomez-Rodriguez 
 1. [Quantifying the Effects of Contact Tracing, Testing, and Containment Measures in the Presence of Infection Hotspots](https://arxiv.org/abs/2004.07641)  
@@ -24,6 +22,9 @@ author_profile: true
 <!-- ### Journals -->
 
 ### Conference proceedings
+1. [Counterfactual Explanations in Sequential Decision Making Under Uncertainty](https://arxiv.org/abs/2107.02776)  
+  *35th Conference on Neural Information Processing Systems (NeurIPS), Virtual, December 2021*   
+  Stratis Tsirtsis, Abir De and Manuel Gomez-Rodriguez 
 1. [Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness](https://dl.acm.org/doi/abs/10.1145/3442188.3445912)  
   *4th ACM Conference on Fairness, Accountability, and Transparency (FAccT), Virtual, March 2021*   
   Jessie Finocchiaro, Roland Maio, Faidra Monachou, Gourab K Patro, Manish Raghavan, Ana-Andreea Stoica and Stratis Tsirtsis   
