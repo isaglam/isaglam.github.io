@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stratis Tsirtsis"
+title                    : "Irmak Sa\'{g}lam"
 title_separator          : "-"
-name                     : &name "Stratis Tsirtsis"
+name                     : &name "Irmak Sa\'{g}lam"
 description              : &description "personal description"
-url                      : https://stsirtsis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://isaglam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stsirtsis/stsirtsis.github.io"
+repository               : "isaglam/isaglam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stratis Tsirtsis"
+  name             : "Irmak Sa\'{g}lam"
   avatar           : "stratis.jpg"
   bio              : "PhD Student at the <a style='color: black;' href='https://mpi-sws.org'>Max Planck Institute for Software Systems</a>"
   location         : "Kaiserslautern, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=zUNYVu4AAAAJ"
-  email            :  stsirtsis[at]mpi-sws[dot]org
+  googlescholar    : ""
+  email            :  isaglam[at]mpi-sws[dot]org
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "stsirtsis"
+  github           : "isaglam"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "stsirtsis"
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "stratis_"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
