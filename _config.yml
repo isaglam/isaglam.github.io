@@ -86,7 +86,8 @@ author:
   location         : "Kaiserslautern, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=TTICd40AAAAJ&hl=tr"
+  dblp             : "https://dblp.org/pid/239/4838.html"
   email            :  isaglam[at]mpi-sws[dot]org
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
