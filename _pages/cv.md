@@ -19,33 +19,30 @@ Work experience
 
 * 2020: Project Team Lead (Part-Time)
   * Ratio Technologies
-  * Analysis of the abnormalities and customer trends on a long-term multidimensional dataset for the purpose of providing insight on how to meet customer needs 
+  * Analysis of the unwanted behaviour related to customer trends on a long-term multidimensional dataset for a large major appliances company. Providing insights on how to converge to customer needs.
 
 * 2018-2020: Research Assistant
   * METU Computer Engineering Department - Cyber Physical Systems Research Group
   * Supervisor: Asst. Prof. Ebru Aydin Gol
   * Project no: #117E242 funded by TUBITAK
-  * Research regarding formal methods, automata theory and control systems. Formal method approaches adopted for synthesizing a feedback controller that enhances the behaviour of discrete time systems over labeled datasets.
+  * Research regarding formal methods, automata theory and control systems. Formal method approaches adopted for synthesizing a feedback controller that enhances the behaviour of discrete time systems given over labeled datasets.
 
 * Fall 2017: Student Teaching Assistant
   * METU Computer Engineering Department, “Introduction to C Programming”
 
 * Summer 2016: Internship
   * TSK Modsimmer - Temizer Laboratory
-  * Research and work on finance and genetic algorithms. Generation of one protfolio management and one parity trading algorithm, using genetic algorithm methods. 
+  * Research on the intersection of finance and genetic algorithms. Generation of one protfolio management and one parity trading algorithm, using genetic algorithms. 
 
 * Summer 2014: Internship
   * NCR Corporation/Istanbul
   * Informatics/Programming Department
-  * Programming throughout an Object Oriented working interface with C# for log monitoring
+  * Development of an object oriented working interface with C# for log monitoring.
 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-[On the closed Ramsey numbers $R^{cl}(\omega+n, 3)$](https://link.springer.com/article/10.1007/s11856-021-2239-5)
+[On the closed Ramsey numbers $R^{cl}(\omega+n, 3)$ ](https://link.springer.com/article/10.1007/s11856-021-2239-5)
 Burak Kaya, Irmak Saglam
 
 [Synthesis of Controllable ptSTL Formulas](https://ieeexplore.ieee.org/document/9302190)
