@@ -25,7 +25,7 @@ Work experience
   * METU Computer Engineering Department - Cyber Physical Systems Research Group
   * Supervisor: Asst. Prof. Ebru Aydin Gol
   * Project no: #117E242 funded by TUBITAK
-  * Research regarding synthesis of 
+  * Research regarding formal methods, automata theory and control systems. Formal method approaches adopted for synthesizing a feedback controller that enhances the behaviour of discrete time systems over labeled datasets.
 
 * Fall 2017: Student Teaching Assistant
   * METU Computer Engineering Department, “Introduction to C Programming”
