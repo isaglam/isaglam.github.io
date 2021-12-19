@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in METU - Computer Engineering Department, 2017
-* M.S. in METU - Mathematics Department, 2019
+* B.Sc. in METU - Computer Engineering Department, 2017
+* M.Sc. in METU - Mathematics Department, 2020
 
 Work experience
 ======
