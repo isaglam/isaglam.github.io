@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in METU - Computer Engineering Department, 2017
+* M.S. in METU - Mathematics Department, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020: Project Team Lead (Part-Time)
+  * Ratio Technologies
+  * Analysis of the abnormalities and customer trends on a long-term multidimensional dataset for the purpose of providing insight on how to meet customer needs 
+
+* 2018-2020: Research Assistant
+  * METU Computer Engineering Department - Cyber Physical Systems Research Group
+  * Supervisor: Asst. Prof. Ebru Aydin Gol
+  * Project no: #117E242 funded by TUBITAK
+  * Research regarding synthesis of 
+
+* Fall 2017: Student Teaching Assistant
+  * METU Computer Engineering Department, “Introduction to C Programming”
+
+* Summer 2016: Internship
+  * TSK Modsimmer - Temizer Laboratory
+  * Research and work on finance and genetic algorithms. Generation of one protfolio management and one parity trading algorithm, using genetic algorithm methods. 
+
+* Summer 2014: Internship
+  * NCR Corporation/Istanbul
+  * Informatics/Programming Department
+  * Programming throughout an Object Oriented working interface with C# for log monitoring
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+[On the closed Ramsey numbers $R^{cl}(\omega+n, 3)$](https://link.springer.com/article/10.1007/s11856-021-2239-5)
+Burak Kaya, Irmak Saglam
+
+[Synthesis of Controllable ptSTL Formulas](https://ieeexplore.ieee.org/document/9302190)
+Irmak Saglam, Ebru Aydin Gol
+
+[Cause Mining and Controller Synthesis with STL](https://www.semanticscholar.org/paper/Cause-Mining-and-Controller-Synthesis-with-STL-Saglam-Gol/5d24446a3e7196ffaf6f694b2bec4f85de30ed2f)
+Irmak Saglam, Ebru Aydin Gol
+
+ 
+Thesis
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+[Some New Bounds on Closed Ordinal Ramsey Numbers](https://open.metu.edu.tr/handle/11511/89646)
