@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD candidate at RPTU Kaiserslautern - CS Department, 2021-
+* PhD candidate at RPTU Kaiserslautern - Computer Science Department, 2021-
 * M.Sc. in METU - Mathematics Department, 2020
 * B.Sc. in METU - Computer Engineering Department, 2017
 
