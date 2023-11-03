@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) under the joint supervision of [Georg Zetzsche](http://zetzsche.xyz) and [Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/). 
+I am currently pursuing my PhD at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/)(MPI-SWS) under the joint supervision of [Georg Zetzsche](http://zetzsche.xyz) and [Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/). 
 
 My research interests include formal methods, verification, finite representations of infinite systems, $\omega$-regular games, $\mu-$calculus and its applications and automata theory.
 
