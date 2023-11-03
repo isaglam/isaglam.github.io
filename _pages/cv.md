@@ -43,15 +43,29 @@ Work experience
 Publications
 ======
 
+* Fair omega-Regular Games [under review | [arXiv](https://arxiv.org/abs/2310.13612) ]
+  Daniel Hausmann, Nir Piterman, Irmak Sağlam, Anne-Kathrin Schmuck
+
+* Directed Regular and Context-free Languages [under review, arXiv]
+  Moses Ganardi, Irmak Sağlam, Georg Zetzsche
+  
+* Solving Two-Player Games under Progress Assumptions [to appear in VMCAI 2024 | [arXiv](https://arxiv.org/abs/2310.12767)]
+  Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, Satya Prakash Nayak
+
+* Solving Odd-Fair Parity Games [to appear in FSTTCS 2023 | [arXiv](https://arxiv.org/abs/2307.13396)]
+   Irmak Sağlam, Anne-Kathrin Schmuck
+
 * On the closed Ramsey numbers $R^{cl}(\omega+n, 3)$
-   Burak Kaya, Irmak Saglam
    [ [Israel Journal of Mathematics 2021](https://link.springer.com/article/10.1007/s11856-021-2239-5) | [arXiv](https://arxiv.org/abs/2005.09519)]
+     Burak Kaya, Irmak Sağlam
 
-[Synthesis of Controllable ptSTL Formulas](https://ieeexplore.ieee.org/document/9302190)
-Irmak Saglam, Ebru Aydin Gol
+* Synthesis of Controllable ptSTL Formulas
+ [ [SIU 2020](https://ieeexplore.ieee.org/document/9302190), [arXiv](https://arxiv.org/abs/2003.09918) ]
+  Irmak Sağlam, Ebru Aydin Göl
 
-[Cause Mining and Controller Synthesis with STL](https://www.semanticscholar.org/paper/Cause-Mining-and-Controller-Synthesis-with-STL-Saglam-Gol/5d24446a3e7196ffaf6f694b2bec4f85de30ed2f)
-Irmak Saglam, Ebru Aydin Gol
+* Cause Mining and Controller Synthesis with STL
+ [ [CDC 2019](https://www.semanticscholar.org/paper/Cause-Mining-and-Controller-Synthesis-with-STL-Saglam-Gol/5d24446a3e7196ffaf6f694b2bec4f85de30ed2f) | [arXiv](https://arxiv.org/abs/1904.03649) ]
+  Irmak Sağlam, Ebru Aydin Göl
 
  
 Thesis
