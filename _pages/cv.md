@@ -24,7 +24,7 @@ Teaching
   * Technische Universität Kaiserslautern, “Concurrency Theory”
     
 * Fall 2017/2018: Student Teaching Assistant
-  * METU Computer Engineering Department, “Introduction to C Programming”
+  * Middle East Technical University, “Introduction to C Programming”
 
 Advising
 ======
