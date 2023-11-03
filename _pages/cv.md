@@ -39,6 +39,16 @@ Work experience
   * Informatics/Programming Department
   * Development of an object oriented working interface with C# for log monitoring.
 
+Teaching
+======
+* Winter 2023/2024: Teaching Assistant
+  * RPTU Kaiserslautern, “Concurrency Theory”
+    
+* Winter 2022/2023: Teaching Assistant
+  * Technische Universität Kaiserslautern, “Concurrency Theory”
+    
+* Fall 2017: Student Teaching Assistant
+  * METU Computer Engineering Department, “Introduction to C Programming”
 
 Publications
 ======
