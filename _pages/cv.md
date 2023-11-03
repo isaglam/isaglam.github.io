@@ -61,7 +61,7 @@ Publications
   Irmak Sağlam, Ebru Aydin Göl
 
 
-Thesis
+Master's Thesis
 ======
 
 [Some New Bounds on Closed Ordinal Ramsey Numbers](https://open.metu.edu.tr/handle/11511/89646)
