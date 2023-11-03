@@ -46,7 +46,10 @@ Publications
 * Fair omega-Regular Games [under review | [arXiv](https://arxiv.org/abs/2310.13612) ]
   Daniel Hausmann, Nir Piterman, Irmak Sağlam, Anne-Kathrin Schmuck
 
-* Directed Regular and Context-free Languages [under review, arXiv]
+* Rabin Games and Colourful Universal Trees [under review | arXiv ]
+  Rupak Majumdar, Irmak Sağlam, K. S. Thejaswini
+
+* Directed Regular and Context-free Languages [under review | arXiv]
   Moses Ganardi, Irmak Sağlam, Georg Zetzsche
   
 * Solving Two-Player Games under Progress Assumptions [to appear in VMCAI 2024 | [arXiv](https://arxiv.org/abs/2310.12767)]
