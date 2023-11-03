@@ -43,7 +43,7 @@ Work experience
 Publications
 ======
 On the closed Ramsey numbers $R^{cl}(\omega+n, 3)$ Burak Kaya, Irmak Saglam
-[[Israel Journal of Mathematics 2021] (https://link.springer.com/article/10.1007/s11856-021-2239-5) | [arXiv](https://arxiv.org/abs/2005.09519)]
+[ [Israel Journal of Mathematics 2021](https://link.springer.com/article/10.1007/s11856-021-2239-5) | [arXiv](https://arxiv.org/abs/2005.09519)]
 
 [Synthesis of Controllable ptSTL Formulas](https://ieeexplore.ieee.org/document/9302190)
 Irmak Saglam, Ebru Aydin Gol
