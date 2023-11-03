@@ -93,6 +93,7 @@ Thesis
 Additional Talks
 ======
 * [Theorietag 2023](https://theorietag2023.mpi-sws.org/), "Checking Directedness of Regular and Context-free Languages" ([Proceedings](https://theorietag2023.mpi-sws.org/theorietag2023-proceedings.pdf), [Slides](https://theorietag2023.mpi-sws.org/pages/schedule/#:~:text=Languages%20Abstract%20(PDF)-,Slides%20(Keynote),-12.40%2D14.00%20Lunch))
+* [Highlights 2023](https://highlights-conference.org/2023/), "Solving Odd-Fair Parity Games"
 * [WiL 2023](https://sites.google.com/view/wil2023/home), "Rabin Games and Colourful Universal Trees"
 * [MOVEP 2022](https://movep2022.cs.aau.dk/student.html), "Justification Graphs for Parity Games under Strong Transition Fairness"
   
