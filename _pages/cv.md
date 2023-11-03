@@ -52,7 +52,7 @@ Teaching
 
 Advising
 ======
-Munko Tsyrempilion (M.Sc. student in RPTU Kaiserslautern), co-advised with Anne-Kathrin Schmuck.
+I co-advise Munko Tsyrempilion (M.Sc. student in RPTU Kaiserslautern) together with Anne-Kathrin Schmuck.
 
 Publications
 ======
