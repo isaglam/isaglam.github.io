@@ -33,31 +33,31 @@ I co-advise Munko Tsyrempilion (M.Sc. student in RPTU Kaiserslautern) together w
 Publications
 ======
 
-* Fair omega-Regular Games [under review | [arXiv](https://arxiv.org/abs/2310.13612) ]
+* Fair omega-Regular Games [to appear in FoSSaCS 2024| [arXiv](https://arxiv.org/abs/2310.13612)]
   Daniel Hausmann, Nir Piterman, Irmak Sağlam, Anne-Kathrin Schmuck
 
-* Rabin Games and Colourful Universal Trees [under review | arXiv ]
+* Rabin Games and Colourful Universal Trees [to appear in TACAS 2024]
   Rupak Majumdar, Irmak Sağlam, K. S. Thejaswini
 
-* Directed Regular and Context-free Languages [under review | arXiv]
+* Directed Regular and Context-free Languages [to appear in STACS 2024]
   Moses Ganardi, Irmak Sağlam, Georg Zetzsche
   
-* Solving Two-Player Games under Progress Assumptions [to appear in VMCAI 2024 | [arXiv](https://arxiv.org/abs/2310.12767)]
+* Solving Two-Player Games under Progress Assumptions [to appear in VMCAI 2024 | [extended abstract](https://arxiv.org/abs/2310.12767)]
   Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, Satya Prakash Nayak
 
-* Solving Odd-Fair Parity Games [to appear in FSTTCS 2023 | [arXiv](https://arxiv.org/abs/2307.13396)]
+* Solving Odd-Fair Parity Games [[FSTTCS 2023](https://doi.org/10.4230/LIPIcs.FSTTCS.2023.34) | [extended abstract](https://arxiv.org/abs/2307.13396)]
    Irmak Sağlam, Anne-Kathrin Schmuck
 
 * On the closed Ramsey numbers $R^{cl}(\omega+n, 3)$
-   [ [Israel Journal of Mathematics 2021](https://link.springer.com/article/10.1007/s11856-021-2239-5) | [arXiv](https://arxiv.org/abs/2005.09519)]
+   [[Israel Journal of Mathematics 2021](https://link.springer.com/article/10.1007/s11856-021-2239-5) | [arXiv](https://arxiv.org/abs/2005.09519)]
      Burak Kaya, Irmak Sağlam
 
 * Synthesis of Controllable ptSTL Formulas
- [ [SIU 2020](https://ieeexplore.ieee.org/document/9302190), [arXiv](https://arxiv.org/abs/2003.09918) ]
+ [[SIU 2020](https://ieeexplore.ieee.org/document/9302190), [arXiv](https://arxiv.org/abs/2003.09918) ]
   Irmak Sağlam, Ebru Aydin Göl
 
 * Cause Mining and Controller Synthesis with STL
- [ [CDC 2019](https://www.semanticscholar.org/paper/Cause-Mining-and-Controller-Synthesis-with-STL-Saglam-Gol/5d24446a3e7196ffaf6f694b2bec4f85de30ed2f) | [arXiv](https://arxiv.org/abs/1904.03649) ]
+ [[CDC 2019](https://www.semanticscholar.org/paper/Cause-Mining-and-Controller-Synthesis-with-STL-Saglam-Gol/5d24446a3e7196ffaf6f694b2bec4f85de30ed2f) | [arXiv](https://arxiv.org/abs/1904.03649) ]
   Irmak Sağlam, Ebru Aydin Göl
 
 
@@ -68,6 +68,7 @@ Thesis
 
 Additional Talks
 ======
+* [FSTTCS 2023](https://www.fsttcs.org.in/2023/) "Solving Odd-Fair Parity Games" ([talk](https://www.youtube.com/watch?v=JdH2_ya2mmQ&ab_channel=CSTARIIITHyderabad))
 * [Theorietag 2023](https://theorietag2023.mpi-sws.org/), "Checking Directedness of Regular and Context-free Languages" ([Proceedings](https://theorietag2023.mpi-sws.org/theorietag2023-proceedings.pdf), [Slides](https://theorietag2023.mpi-sws.org/pages/schedule/#:~:text=Languages%20Abstract%20(PDF)-,Slides%20(Keynote),-12.40%2D14.00%20Lunch))
 * [Highlights 2023](https://highlights-conference.org/2023/), "Solving Odd-Fair Parity Games"
 * [WiL 2023](https://sites.google.com/view/wil2023/home), "Rabin Games and Colourful Universal Trees"
