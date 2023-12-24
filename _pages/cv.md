@@ -68,7 +68,7 @@ Thesis
 
 Additional Talks
 ======
-* [FSTTCS 2023](https://www.fsttcs.org.in/2023/) "Solving Odd-Fair Parity Games" ([talk](https://www.youtube.com/watch?v=JdH2_ya2mmQ&ab_channel=CSTARIIITHyderabad))
+* [FSTTCS 2023](https://www.fsttcs.org.in/2023/) "Solving Odd-Fair Parity Games" ([talk](https://youtu.be/JdH2_ya2mmQ?t=4428))
 * [Theorietag 2023](https://theorietag2023.mpi-sws.org/), "Checking Directedness of Regular and Context-free Languages" ([Proceedings](https://theorietag2023.mpi-sws.org/theorietag2023-proceedings.pdf), [Slides](https://theorietag2023.mpi-sws.org/pages/schedule/#:~:text=Languages%20Abstract%20(PDF)-,Slides%20(Keynote),-12.40%2D14.00%20Lunch))
 * [Highlights 2023](https://highlights-conference.org/2023/), "Solving Odd-Fair Parity Games"
 * [WiL 2023](https://sites.google.com/view/wil2023/home), "Rabin Games and Colourful Universal Trees"
