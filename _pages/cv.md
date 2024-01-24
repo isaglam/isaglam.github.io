@@ -33,19 +33,19 @@ I co-advise Munko Tsyrempilion (M.Sc. student in RPTU Kaiserslautern) together w
 Publications
 ======
 
-* Fair omega-Regular Games [to appear in FoSSaCS 2024| [arXiv](https://arxiv.org/abs/2310.13612)]
+* Fair omega-Regular Games [to appear in FoSSaCS 2024| [extended version](https://arxiv.org/abs/2310.13612)]
   Daniel Hausmann, Nir Piterman, Irmak Sağlam, Anne-Kathrin Schmuck
 
-* Rabin Games and Colourful Universal Trees [to appear in TACAS 2024]
+* Rabin Games and Colourful Universal Trees [to appear in TACAS 2024 | [extended version](https://arxiv.org/abs/2401.07548)]
   Rupak Majumdar, Irmak Sağlam, K. S. Thejaswini
 
-* Directed Regular and Context-free Languages [to appear in STACS 2024]
+* Directed Regular and Context-free Languages [to appear in STACS 2024 | [extended version](https://arxiv.org/abs/2401.07106)]
   Moses Ganardi, Irmak Sağlam, Georg Zetzsche
   
-* Solving Two-Player Games under Progress Assumptions [to appear in VMCAI 2024 | [extended abstract](https://arxiv.org/abs/2310.12767)]
+* Solving Two-Player Games under Progress Assumptions [[VMCAI 2024](https://link.springer.com/chapter/10.1007/978-3-031-50524-9_10) | [extended version](https://arxiv.org/abs/2310.12767)]
   Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, Satya Prakash Nayak
 
-* Solving Odd-Fair Parity Games [[FSTTCS 2023](https://doi.org/10.4230/LIPIcs.FSTTCS.2023.34) | [extended abstract](https://arxiv.org/abs/2307.13396)]
+* Solving Odd-Fair Parity Games [[FSTTCS 2023](https://doi.org/10.4230/LIPIcs.FSTTCS.2023.34) | [extended version](https://arxiv.org/abs/2307.13396)]
    Irmak Sağlam, Anne-Kathrin Schmuck
 
 * On the closed Ramsey numbers $R^{cl}(\omega+n, 3)$
