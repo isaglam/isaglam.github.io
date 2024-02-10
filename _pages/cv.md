@@ -28,7 +28,7 @@ Teaching
 
 Advising
 ======
-I co-advise Munko Tsyrempilion (M.Sc. student in RPTU Kaiserslautern) together with Anne-Kathrin Schmuck.
+I have co-advised Munko Tsyrempilion (RPTU Kaiserslautern) together with Anne-Kathrin Schmuck, who succesfully defended his master's thesis in January 2024. 
 
 Publications
 ======
@@ -54,11 +54,11 @@ Publications
 
 * Synthesis of Controllable ptSTL Formulas
  [[SIU 2020](https://ieeexplore.ieee.org/document/9302190), [arXiv](https://arxiv.org/abs/2003.09918) ]
-  Irmak Sağlam, Ebru Aydin Göl
+  Irmak Sağlam, Ebru Aydın Göl
 
 * Cause Mining and Controller Synthesis with STL
  [[CDC 2019](https://www.semanticscholar.org/paper/Cause-Mining-and-Controller-Synthesis-with-STL-Saglam-Gol/5d24446a3e7196ffaf6f694b2bec4f85de30ed2f) | [arXiv](https://arxiv.org/abs/1904.03649) ]
-  Irmak Sağlam, Ebru Aydin Göl
+  Irmak Sağlam, Ebru Aydın Göl
 
 
 Thesis
