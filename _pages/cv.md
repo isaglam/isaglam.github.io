@@ -61,12 +61,12 @@ Publications
   Irmak Sağlam, Ebru Aydın Göl
 
 
-Thesis
+Master's Thesis
 ======
 
 [Some New Bounds on Closed Ordinal Ramsey Numbers](https://open.metu.edu.tr/handle/11511/89646)
 
-Additional Talks
+Talks
 ======
 * [VMCAI 2024](https://popl24.sigplan.org/home/VMCAI-2024) "Solving Two-Player Games under Progress Assumptions" with [Satya Prakash Nayak](https://satya2009rta.github.io/)
 * [GALOP 2024](https://popl24.sigplan.org/home/galop-2024#program) "Fair omega-Regular Games"
