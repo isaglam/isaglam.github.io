@@ -42,8 +42,7 @@ Publications
 * Directed Regular and Context-free Languages [[STACS 2024](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2024.36) | [extended version](https://arxiv.org/abs/2401.07106)]
   Moses Ganardi, Irmak Sağlam, Georg Zetzsche
   
-* Solving Two-Player Games under Progress Assumptions [[VMCAI 2024](https://link.springer.com/chapter/10.1007/978-3-031-50524-9_10) | [extended version](https://arxiv.org/abs/2310.12767) | [talk](https://www.youtube.com/watch?v=8IsByoKNKYc&ab_channel=ACMSIGPLAN)]
-  Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, Satya Prakash Nayak
+* Solving Two-Player Games under Progress Assumptions [[VMCAI 2024](https://link.springer.com/chapter/10.1007/978-3-031-50524-9_10) | [extended version](https://arxiv.org/abs/2310.12767) | [talk](https://www.youtube.com/watch?v=8IsByoKNKYc&ab_channel=ACMSIGPLAN)]Satya Prakash Nayak, Irmak Sağlam, Anne-Kathrin Schmuck, K. S. Thejaswini
 
 * Solving Odd-Fair Parity Games [[FSTTCS 2023](https://doi.org/10.4230/LIPIcs.FSTTCS.2023.34) | [extended version](https://arxiv.org/abs/2307.13396)]
    Irmak Sağlam, Anne-Kathrin Schmuck
