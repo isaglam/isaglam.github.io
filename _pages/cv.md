@@ -42,22 +42,22 @@ Daniel Hausmann, Nir Piterman, Irmak Sağlam, Anne-Kathrin Schmuck
 * Directed Regular and Context-free Languages [[STACS 2024](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.STACS.2024.36) | [extended version](https://arxiv.org/abs/2401.07106)]
   Moses Ganardi, Irmak Sağlam, Georg Zetzsche
   
-* Solving Two-Player Games under Progress Assumptions [ [VMCAI 2024](https://link.springer.com/chapter/10.1007/978-3-031-50524-9_10) | [extended version](https://arxiv.org/abs/2310.12767)]
+* Solving Two-Player Games under Progress Assumptions [[VMCAI 2024](https://link.springer.com/chapter/10.1007/978-3-031-50524-9_10) | [extended version](https://arxiv.org/abs/2310.12767)]
 Satya Prakash Nayak, Irmak Sağlam, Anne-Kathrin Schmuck, K. S. Thejaswini
 
-* Solving Odd-Fair Parity Games [ [FSTTCS 2023](https://doi.org/10.4230/LIPIcs.FSTTCS.2023.34) | [extended version](https://arxiv.org/abs/2307.13396) ]
+* Solving Odd-Fair Parity Games [[FSTTCS 2023](https://doi.org/10.4230/LIPIcs.FSTTCS.2023.34) | [extended version](https://arxiv.org/abs/2307.13396)]
    Irmak Sağlam, Anne-Kathrin Schmuck
 
 * On the closed Ramsey numbers $R^{cl}(\omega+n, 3)$
-   [ [Israel Journal of Mathematics 2021](https://link.springer.com/article/10.1007/s11856-021-2239-5) | [arXiv](https://arxiv.org/abs/2005.09519) ]
+   [[Israel Journal of Mathematics 2021](https://link.springer.com/article/10.1007/s11856-021-2239-5) | [arXiv](https://arxiv.org/abs/2005.09519)]
      Burak Kaya, Irmak Sağlam
 
 * Synthesis of Controllable ptSTL Formulas
- [ [SIU 2020](https://ieeexplore.ieee.org/document/9302190), [arXiv](https://arxiv.org/abs/2003.09918) ]
+ [[SIU 2020](https://ieeexplore.ieee.org/document/9302190), [arXiv](https://arxiv.org/abs/2003.09918)]
   Irmak Sağlam, Ebru Aydın Göl
 
 * Cause Mining and Controller Synthesis with STL
- [ [CDC 2019](https://www.semanticscholar.org/paper/Cause-Mining-and-Controller-Synthesis-with-STL-Saglam-Gol/5d24446a3e7196ffaf6f694b2bec4f85de30ed2f) | [arXiv](https://arxiv.org/abs/1904.03649) ]
+ [[CDC 2019](https://www.semanticscholar.org/paper/Cause-Mining-and-Controller-Synthesis-with-STL-Saglam-Gol/5d24446a3e7196ffaf6f694b2bec4f85de30ed2f) | [arXiv](https://arxiv.org/abs/1904.03649)]
   Irmak Sağlam, Ebru Aydın Göl
 
 
