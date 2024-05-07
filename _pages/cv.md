@@ -49,7 +49,7 @@ Satya Prakash Nayak, Irmak Sağlam, Anne-Kathrin Schmuck, K. S. Thejaswini
    Irmak Sağlam, Anne-Kathrin Schmuck
 
 * On the closed Ramsey numbers $R^{cl}(\omega+n, 3)$
-   [ [Israel Journal of Mathematics 2021](https://link.springer.com/article/10.1007/s11856-021-2239-5) | [arXiv] (https://arxiv.org/abs/2005.09519) ]
+   [ [Israel Journal of Mathematics 2021](https://link.springer.com/article/10.1007/s11856-021-2239-5) | [arXiv](https://arxiv.org/abs/2005.09519) ]
      Burak Kaya, Irmak Sağlam
 
 * Synthesis of Controllable ptSTL Formulas
