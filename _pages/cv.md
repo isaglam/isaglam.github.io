@@ -70,7 +70,7 @@ Talks
 ======
 * [FoSSaCS 2024](https://etaps.org/2024/conferences/fossacs/), "Fair omega-Regular Games"
 * [STACS 2024](https://stacs2024.limos.fr/), "Directed Regular and Context-free Languages"
-* [FICS 2024](https://www.irif.fr/users/saurin/fics2024/index.html), "Fixpoints for Parity/$\bot$ Games" ([abstract](https://www.irif.fr/_media/users/saurin/fics2024/pre-proceedings/fics-2024-hausmann-etal.pdf))
+* [FICS 2024](https://www.irif.fr/users/saurin/fics2024/index.html), "Fixpoints for Fair Parity/$\bot$ Games" ([abstract](https://www.irif.fr/_media/users/saurin/fics2024/pre-proceedings/fics-2024-hausmann-etal.pdf))
 * [VMCAI 2024](https://popl24.sigplan.org/home/VMCAI-2024), "Solving Two-Player Games under Progress Assumptions" with [Satya Prakash Nayak](https://satya2009rta.github.io/) ([talk](https://www.youtube.com/watch?v=8IsByoKNKYc&ab_channel=ACMSIGPLAN))
 * [GALOP 2024](https://popl24.sigplan.org/home/galop-2024#program), "Fair omega-Regular Games"
 * [FSTTCS 2023](https://www.fsttcs.org.in/2023/), "Solving Odd-Fair Parity Games" ([talk](https://youtu.be/JdH2_ya2mmQ?t=4428))
