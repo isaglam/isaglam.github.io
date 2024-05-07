@@ -68,11 +68,12 @@ Master's Thesis
 
 Talks
 ======
-* [FoSSaCS](https://etaps.org/2024/conferences/fossacs/) "Fair omega-Regular Games"
-* [STACS 2024](https://stacs2024.limos.fr/) "Directed Regular and Context-free Languages"
-* [VMCAI 2024](https://popl24.sigplan.org/home/VMCAI-2024) "Solving Two-Player Games under Progress Assumptions" with [Satya Prakash Nayak](https://satya2009rta.github.io/) ([talk](https://www.youtube.com/watch?v=8IsByoKNKYc&ab_channel=ACMSIGPLAN))
-* [GALOP 2024](https://popl24.sigplan.org/home/galop-2024#program) "Fair omega-Regular Games"
-* [FSTTCS 2023](https://www.fsttcs.org.in/2023/) "Solving Odd-Fair Parity Games" ([talk](https://youtu.be/JdH2_ya2mmQ?t=4428))
+* [FoSSaCS](https://etaps.org/2024/conferences/fossacs/), "Fair omega-Regular Games"
+* [STACS 2024](https://stacs2024.limos.fr/), "Directed Regular and Context-free Languages"
+* [FICS 2024](https://www.irif.fr/users/saurin/fics2024/index.html), "Fixpoints for Parity/$\bot$ Games" ([abstract](https://www.irif.fr/_media/users/saurin/fics2024/pre-proceedings/fics-2024-hausmann-etal.pdf))
+* [VMCAI 2024](https://popl24.sigplan.org/home/VMCAI-2024), "Solving Two-Player Games under Progress Assumptions" with [Satya Prakash Nayak](https://satya2009rta.github.io/) ([talk](https://www.youtube.com/watch?v=8IsByoKNKYc&ab_channel=ACMSIGPLAN))
+* [GALOP 2024](https://popl24.sigplan.org/home/galop-2024#program), "Fair omega-Regular Games"
+* [FSTTCS 2023](https://www.fsttcs.org.in/2023/), "Solving Odd-Fair Parity Games" ([talk](https://youtu.be/JdH2_ya2mmQ?t=4428))
 * [Theorietag 2023](https://theorietag2023.mpi-sws.org/), "Checking Directedness of Regular and Context-free Languages" ([Proceedings](https://theorietag2023.mpi-sws.org/theorietag2023-proceedings.pdf), [Slides](https://theorietag2023.mpi-sws.org/pages/schedule/#:~:text=Languages%20Abstract%20(PDF)-,Slides%20(Keynote),-12.40%2D14.00%20Lunch))
 * [Highlights 2023](https://highlights-conference.org/2023/), "Solving Odd-Fair Parity Games"
 * [WiL 2023](https://sites.google.com/view/wil2023/home), "Rabin Games and Colourful Universal Trees"
