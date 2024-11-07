@@ -82,14 +82,10 @@ Talks
 * [Highlights 2023](https://highlights-conference.org/2023/), "Solving Odd-Fair Parity Games"
 * [WiL 2023](https://sites.google.com/view/wil2023/home), "Rabin Games and Colourful Universal Trees"
 * [MOVEP 2022](https://movep2022.cs.aau.dk/student.html), "Justification Graphs for Parity Games under Strong Transition Fairness"
-  
-# Subreviews
-# =====
-#    TACAS'24, VMCAI'24, ICALP'24, TACAS'25
 
-# Research Visits
-# =====
-#  National Institute of Informatics, Tokyo on October 28th, 2024. Hosted by Kazuki Watanabe 
+  <!-- Subreviews: TACAS'24, VMCAI'24, ICALP'24, TACAS'25 -->
+
+   <!-- Research Visits: National Institute of Informatics, Tokyo on October 28th, 2024. Hosted by Kazuki Watanabe -->
 
 Work experience
 =====
