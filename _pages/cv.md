@@ -33,7 +33,7 @@ I have co-advised Munko Tsyrempilion (RPTU Kaiserslautern) together with Anne-Ka
 Publications
 ======
 
-* A Decremental Algorithm for Fair Büchi Games [Accepted to ATVA 2024] Irmak Sağlam, Anne-Kathrin Schmuck, Munko Tsyrempilon
+* A Decremental Algorithm for Fair Büchi Games (** Distinguished Paper **)[ATVA 2024] Irmak Sağlam, Anne-Kathrin Schmuck, Munko Tsyrempilon
 
 * Fair omega-Regular Games [[FoSSaCS 2024](https://link.springer.com/chapter/10.1007/978-3-031-57228-9_2)]
 Daniel Hausmann, Nir Piterman, Irmak Sağlam, Anne-Kathrin Schmuck
@@ -70,6 +70,8 @@ Master's Thesis
 
 Talks
 ======
+* [ATVA 2024](https://atva-conference.org/2024/call-for-papers/accepted-papers/), "A Decremental Algorithm for Fair Büchi Games"
+* [DLT 2024](https://events.gwdg.de/event/576/program), "Directed Regular and Context-Free Languages" (** Invited to the `Highlights of Language Theory' session **)
 * [FoSSaCS 2024](https://etaps.org/2024/conferences/fossacs/), "Fair omega-Regular Games"
 * [STACS 2024](https://stacs2024.limos.fr/), "Directed Regular and Context-free Languages"
 * [FICS 2024](https://www.irif.fr/users/saurin/fics2024/index.html), "Fixpoints for Fair Parity/$\bot$ Games" ([abstract](https://www.irif.fr/_media/users/saurin/fics2024/pre-proceedings/fics-2024-hausmann-etal.pdf))
@@ -81,6 +83,14 @@ Talks
 * [WiL 2023](https://sites.google.com/view/wil2023/home), "Rabin Games and Colourful Universal Trees"
 * [MOVEP 2022](https://movep2022.cs.aau.dk/student.html), "Justification Graphs for Parity Games under Strong Transition Fairness"
   
+# Subreviews
+# =====
+#    TACAS'24, VMCAI'24, ICALP'24, TACAS'25
+
+# Research Visits
+# =====
+#  National Institute of Informatics, Tokyo on October 28th, 2024. Hosted by Kazuki Watanabe 
+
 Work experience
 =====
 
@@ -102,4 +112,6 @@ Work experience
   * NCR Corporation/Istanbul
   * Informatics/Programming Department
   * Development of an object oriented working interface with C# for log monitoring.
+
+
 
