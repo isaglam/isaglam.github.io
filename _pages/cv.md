@@ -33,7 +33,7 @@ I have co-advised Munko Tsyrempilion (RPTU Kaiserslautern) together with Anne-Ka
 Publications
 ======
 
-* A Decremental Algorithm for Fair Büchi Games (**Distinguished Paper**)[ATVA 2024] Irmak Sağlam, Anne-Kathrin Schmuck, Munko Tsyrempilon
+* A Decremental Algorithm for Fair Büchi Games <span style="color:green"> **Distinguished Paper** </span> [ATVA 2024] Irmak Sağlam, Anne-Kathrin Schmuck, Munko Tsyrempilon
 
 * Fair omega-Regular Games [[FoSSaCS 2024](https://link.springer.com/chapter/10.1007/978-3-031-57228-9_2)]
 Daniel Hausmann, Nir Piterman, Irmak Sağlam, Anne-Kathrin Schmuck
