@@ -28,7 +28,7 @@ Teaching
 
 Advising
 ======
-I have co-advised Munko Tsyrempilion (RPTU Kaiserslautern) together with Anne-Kathrin Schmuck, who succesfully defended his master's thesis in January 2024. 
+I have co-advised Munko Tsyrempilon (RPTU Kaiserslautern) together with Anne-Kathrin Schmuck, who succesfully defended his master's thesis in January 2024. 
 
 Publications
 ======
