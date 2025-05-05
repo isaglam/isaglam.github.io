@@ -33,7 +33,7 @@ I have co-advised Munko Tsyrempilon (RPTU Kaiserslautern) together with Anne-Kat
 Publications
 ======
 
-* Fair Quantitative Games [FoSSaCS 2025, [extended version](https://arxiv.org/abs/2501.17255)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
+* Fair Quantitative Games [[FoSSaCS 2025](https://link.springer.com/chapter/10.1007/978-3-031-90897-2_16), [extended version](https://arxiv.org/abs/2501.17255)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
 
 * A Decremental Algorithm for Fair Büchi Games <span style="color:green"> **(Distinguished Paper)** </span> [[ATVA 2024](https://www.springerprofessional.de/en/a-decremental-algorithm-for-fair-buechi-games/50591690)] Irmak Sağlam, Anne-Kathrin Schmuck, Munko Tsyrempilon
 
