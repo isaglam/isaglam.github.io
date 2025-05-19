@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD candidate at RPTU Kaiserslautern - Computer Science Department, 2021-
+* PhD candidate at RPTU Kaiserslautern - Computer Science Department, 2020-
 * M.Sc. in METU - Mathematics Department, 2020
 * B.Sc. in METU - Computer Engineering Department, 2017
 
@@ -72,6 +72,7 @@ Master's Thesis
 
 Talks
 ======
+* [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/), "Fair Quantitative Games"
 * [ATVA 2024](https://atva-conference.org/2024/call-for-papers/accepted-papers/), "A Decremental Algorithm for Fair Büchi Games"
 * [DLT 2024](https://events.gwdg.de/event/576/program), "Directed Regular and Context-Free Languages" (**Invited to the `Highlights of Language Theory' session**)
 * [FoSSaCS 2024](https://etaps.org/2024/conferences/fossacs/), "Fair omega-Regular Games"
@@ -85,7 +86,7 @@ Talks
 * [WiL 2023](https://sites.google.com/view/wil2023/home), "Rabin Games and Colourful Universal Trees"
 * [MOVEP 2022](https://movep2022.cs.aau.dk/student.html), "Justification Graphs for Parity Games under Strong Transition Fairness"
 
-  <!-- Subreviews: TACAS'24, VMCAI'24, ICALP'24, CAV'25, ICALP'25 -->
+  <!-- Subreviews: TACAS'24, VMCAI'24, ICALP'24, CAV'25, ICALP'25, MFCS'25 -->
 
    <!-- Research Visits: National Institute of Informatics, Tokyo on October 28th, 2024. Hosted by Kazuki Watanabe -->
 
