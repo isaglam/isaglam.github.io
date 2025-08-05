@@ -79,6 +79,7 @@ Talks
 * [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/), "Fair Quantitative Games"
 * [ATVA 2024](https://atva-conference.org/2024/call-for-papers/accepted-papers/), "A Decremental Algorithm for Fair Büchi Games"
 * [DLT 2024](https://events.gwdg.de/event/576/program), "Directed Regular and Context-Free Languages" (**Invited to the `Highlights of Language Theory' session**)
+* [Highlights 2024](https://highlights-conference.org/2024/hcrw), "Fair omega-Regular Games"
 * [FoSSaCS 2024](https://etaps.org/2024/conferences/fossacs/), "Fair omega-Regular Games"
 * [STACS 2024](https://stacs2024.limos.fr/), "Directed Regular and Context-free Languages"
 * [FICS 2024](https://www.irif.fr/users/saurin/fics2024/index.html), "Fixpoints for Fair Parity/$\bot$ Games" ([abstract](https://www.irif.fr/_media/users/saurin/fics2024/pre-proceedings/fics-2024-hausmann-etal.pdf))
@@ -92,7 +93,7 @@ Talks
 
 Subreviews
 ======
-FSTTCS'25, MFCS'25, ICALP'25, CAV'25, ICALP'24,  VMCAI'24, TACAS'24
+MFCS'25, ICALP'25, CAV'25, ICALP'24,  VMCAI'24, TACAS'24
 
 Research Visits
 ======
