@@ -73,6 +73,9 @@ Master's Thesis
 
 Talks
 ======
+* [Highlights 2025](https://highlights-conference.org/2025), "Fair Quantitative Games"
+* University of Oxford, Department of Computer Science, Verification Seminars (Oxford, UK), June 12 2025: “An Efficient Subclass of Fairness in Games on Graphs: Theory and Gadget-Based Algorithms” (**Invited Talk**)  
+* University of Oxford, Department of Computer Science, Algorithms and Complexity Seminars (Oxford, UK), June 19 2025: “The Complexity of Deciding Directedness” (**Invited Talk**)  
 * [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/), "Fair Quantitative Games"
 * [ATVA 2024](https://atva-conference.org/2024/call-for-papers/accepted-papers/), "A Decremental Algorithm for Fair Büchi Games"
 * [DLT 2024](https://events.gwdg.de/event/576/program), "Directed Regular and Context-Free Languages" (**Invited to the `Highlights of Language Theory' session**)
