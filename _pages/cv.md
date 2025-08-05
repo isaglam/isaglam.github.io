@@ -95,6 +95,22 @@ Subreviews
 ======
 MFCS'25, ICALP'25, CAV'25, ICALP'24,  VMCAI'24, TACAS'24
 
+Service & Organization
+======
+* “Games on Graphs” workshop<br>
+  Highlights Collaborative Research Week 2025<br>
+  September 8–10, 2025<br>
+  Saarbrücken, Germany
+
+* Subreviews:<br>
+  - FSTTCS ’25<br>
+  - MFCS ’25<br>
+  - ICALP ’25<br>
+  - CAV ’25<br>
+  - ICALP ’24<br>
+  - VMCAI ’24<br>
+  - TACAS ’24
+
 Research Visits
 ======
 * June 4th – July 4th, 2025  
