@@ -32,7 +32,7 @@ I have co-advised Munko Tsyrempilon (RPTU Kaiserslautern) together with Anne-Kat
 
 Publications
 ======
-* Quantitative Strategy Templates [[ATVA 2025](https://link.springer.com/chapter/10.1007/978-3-031-90897-2_16), [extended version](https://arxiv.org/abs/2504.16528)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
+* Quantitative Strategy Templates [[ATVA 2025](https://conf.researchr.org/info/atva-2025/accepted-papers), [extended version](https://arxiv.org/abs/2504.16528)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
 
 * Fair Quantitative Games [[FoSSaCS 2025](https://link.springer.com/chapter/10.1007/978-3-031-90897-2_16), [extended version](https://arxiv.org/abs/2501.17255)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
 
@@ -74,8 +74,8 @@ Master's Thesis
 Talks
 ======
 * [Highlights 2025](https://highlights-conference.org/2025), "Fair Quantitative Games"
-* [University of Oxford, Verification Seminars] (June 12th, 2025), "An Efficient Subclass of Fairness in Games on Graphs: Theory and Gadget-Based Algorithms" ([abstract](https://www.cs.ox.ac.uk/seminars/2763.html))(**Invited Talk**) 
-* [University of Oxford, Algorithms and Complexity Seminars] (June 19th, 2025), “The Complexity of Deciding Directedness” ([abstract](https://www.cs.ox.ac.uk/seminars/2752.html)) (**Invited Talk**)  
+* [University of Oxford, Verification Seminars](https://www.cs.ox.ac.uk/seminars/verification/) (June 12th, 2025), "An Efficient Subclass of Fairness in Games on Graphs: Theory and Gadget-Based Algorithms" ([abstract](https://www.cs.ox.ac.uk/seminars/2763.html))(**Invited Talk**) 
+* [University of Oxford, Algorithms and Complexity Seminars](https://www.cs.ox.ac.uk/seminars/Algorithms/) (June 19th, 2025), “The Complexity of Deciding Directedness” ([abstract](https://www.cs.ox.ac.uk/seminars/2752.html)) (**Invited Talk**)  
 * [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/), "Fair Quantitative Games"
 * [ATVA 2024](https://atva-conference.org/2024/call-for-papers/accepted-papers/), "A Decremental Algorithm for Fair Büchi Games"
 * [DLT 2024](https://events.gwdg.de/event/576/program), "Directed Regular and Context-Free Languages" (**Invited to the `Highlights of Language Theory' session**)
