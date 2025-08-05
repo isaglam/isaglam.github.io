@@ -75,6 +75,9 @@ Talks
 ======
 * [Highlights 2025](https://highlights-conference.org/2025), "Fair Quantitative Games"
 * [University of Oxford, Verification Seminars](https://www.cs.ox.ac.uk/seminars/verification/) (June 12, 2025), "An Efficient Subclass of Fairness in Games on Graphs: Theory and Gadget-Based Algorithms"  ([abstract](https://www.cs.ox.ac.uk/seminars/2763.html)&nbsp;|&nbsp;<span style="color:green"><strong>Invited Talk</strong></span>)
+* [University of Oxford, Verification Seminars](https://www.cs.ox.ac.uk/seminars/verification/) (June 12, 2025),  
+  “An Efficient Subclass of Fairness in Games on Graphs: Theory and Gadget-Based Algorithms”  
+  <span style="white-space:nowrap;">(<a href="https://www.cs.ox.ac.uk/seminars/2763.html">abstract</a> | <span style="color:green"><strong>Invited Talk</strong></span>)</span>
 * [University of Oxford, Algorithms and Complexity Seminars](https://www.cs.ox.ac.uk/seminars/Algorithms/) (June 19, 2025), “The Complexity of Deciding Directedness” ([abstract](https://www.cs.ox.ac.uk/seminars/2752.html) | <span style="color:green">  **Invited Talk** </span>)  
 * [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/), "Fair Quantitative Games"
 * [ATVA 2024](https://atva-conference.org/2024/call-for-papers/accepted-papers/), "A Decremental Algorithm for Fair Büchi Games"
