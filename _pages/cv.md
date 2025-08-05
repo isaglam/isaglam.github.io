@@ -100,8 +100,8 @@ MFCS'25, ICALP'25, CAV'25, ICALP'24,  VMCAI'24, TACAS'24
 
 Organization
 ======
-* “Games on Graphs” Workshop at Highlights Collaborative Research Week 2025
-  September 8–10, 2025
+* “Games on Graphs” Workshop at Highlights Collaborative Research Week 2025  
+  September 8–10, 2025  
   Saarbrücken, Germany
   
 Research Visits
