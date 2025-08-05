@@ -32,7 +32,7 @@ I have co-advised Munko Tsyrempilon (RPTU Kaiserslautern) together with Anne-Kat
 
 Publications
 ======
-* Quantitative Strategy Templates [ATVA 2025|[extended version](https://arxiv.org/abs/2504.16528)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
+* Quantitative Strategy Templates [[ATVA 2025]|[extended version](https://arxiv.org/abs/2504.16528)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
 
 * Fair Quantitative Games [[FoSSaCS 2025](https://link.springer.com/chapter/10.1007/978-3-031-90897-2_16), [extended version](https://arxiv.org/abs/2501.17255)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
 
@@ -96,11 +96,11 @@ FSTTCS'25, MFCS'25, ICALP'25, CAV'25, ICALP'24,  VMCAI'24, TACAS'24
 
 Research Visits
 ======
-* June 4 – July 4, 2025  
-  Research visit to The University of Oxford (Oxford, UK)  
+* June 4th – July 4th, 2025  
+  The University of Oxford (Oxford, UK)  
   Host: Sandra Kiefer  
 * October 28, 2024  
-  Research visit to National Institute of Informatics (Tokyo, Japan)  
+  National Institute of Informatics (Tokyo, Japan)  
   Host: Kazuki Watanabe
 
 Work experience
