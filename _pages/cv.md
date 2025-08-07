@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV & Publications"
+excerpt: "CV & Publications"
 permalink: /cv/
 author_profile: true
 redirect_from:
