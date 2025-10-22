@@ -98,7 +98,7 @@ Talks
 
 Subreviews
 ======
-MFCS'25, ICALP'25, CAV'25, ICALP'24,  VMCAI'24, TACAS'24
+AAAI'26, FSTTCS'25, MFCS'25, ICALP'25, CAV'25, ICALP'24, VMCAI'24, TACAS'24
 
 Organization
 ======
