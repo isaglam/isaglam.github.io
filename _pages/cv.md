@@ -77,10 +77,10 @@ Talks
 * [Highlights 2025](https://highlights-conference.org/2025), "Fair Quantitative Games"
 * [University of Oxford, Verification Seminars](https://www.cs.ox.ac.uk/seminars/verification/) (June 12, 2025),  
   “An Efficient Subclass of Fairness in Games on Graphs: Theory and Gadget-Based Algorithms”  
-  <span style="white-space:nowrap;">(<a href="https://www.cs.ox.ac.uk/seminars/2763.html">abstract</a> ,{% <span style="color:green"><strong>Invited Talk</strong></span> %})</span>
+  <span style="white-space:nowrap;">(<a href="https://www.cs.ox.ac.uk/seminars/2763.html">abstract</a>)</span>
 * [University of Oxford, Algorithms and Complexity Seminars](https://www.cs.ox.ac.uk/seminars/Algorithms/) (June 19, 2025),  
    “The Complexity of Deciding Directedness” 
-  <span style="white-space:nowrap;">(<a href="https://www.cs.ox.ac.uk/seminars/2752.html">abstract</a> )</span>
+  <span style="white-space:nowrap;">(<a href="https://www.cs.ox.ac.uk/seminars/2752.html">abstract</a>)</span>
 * [FoSSaCS 2025](https://etaps.org/2025/conferences/fossacs/), "Fair Quantitative Games"
 * [ATVA 2024](https://atva-conference.org/2024/call-for-papers/accepted-papers/), "A Decremental Algorithm for Fair Büchi Games"
 * [DLT 2024](https://events.gwdg.de/event/576/program), "Directed Regular and Context-Free Languages" <span style="color:green"> **(Invited to the `Highlights of Language Theory' session)** </span>
