@@ -115,9 +115,11 @@ Research Visits
 * October 20 - October 24, 2025
   IRIF (Paris, France)
   Host: Thomas Colcombet
+  
 * June 4 – July 4, 2025  
   The University of Oxford (Oxford, UK)  
-  Host: Sandra Kiefer  
+  Host: Sandra Kiefer
+  
 * October 28, 2024  
   National Institute of Informatics (Tokyo, Japan)  
   Host: Kazuki Watanabe
