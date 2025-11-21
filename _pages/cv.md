@@ -33,6 +33,8 @@ I have co-advised Munko Tsyrempilon (RPTU Kaiserslautern) together with Anne-Kat
 
 Publications
 ======
+* Incremental Data-Driven Policy Synthesis via Game Abstractions [[AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [extended version](https://www.arxiv.org/abs/2511.11545)]   <span style="color:green"> **(oral presentation — 4.6% acceptance rate)** </span> Irmak Sağlam, Mahdi Nazeri, Alessandro Abate, Sadegh Soudjani, Anne-Kathrin Schmuck
+
 * Quantitative Strategy Templates [[ATVA 2025](https://conf.researchr.org/info/atva-2025/accepted-papers), [extended version](https://arxiv.org/abs/2504.16528)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
 
 * Fair Quantitative Games [[FoSSaCS 2025](https://link.springer.com/chapter/10.1007/978-3-031-90897-2_16), [extended version](https://arxiv.org/abs/2501.17255)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
@@ -74,6 +76,8 @@ Master's Thesis
 
 Talks
 ======
+* IRIF Automata Seminar (October 24, 2025), "An Efficient Subclass of Fairness on Games on Graphs & Gadget Based Algorithms"
+
 * [Highlights 2025](https://highlights-conference.org/2025), "Fair Quantitative Games"
 * [University of Oxford, Verification Seminars](https://www.cs.ox.ac.uk/seminars/verification/) (June 12, 2025),  
   “An Efficient Subclass of Fairness in Games on Graphs: Theory and Gadget-Based Algorithms”  
@@ -98,7 +102,7 @@ Talks
 
 Subreviews
 ======
-AAAI'26, FSTTCS'25, MFCS'25, ICALP'25, CAV'25, ICALP'24, VMCAI'24, TACAS'24
+TACAS'26, AAAI'26, FSTTCS'25, MFCS'25, ICALP'25, CAV'25, ICALP'24, VMCAI'24, TACAS'24
 
 Organization
 ======
@@ -108,6 +112,9 @@ Organization
   
 Research Visits
 ======
+* October 20 - October 24, 2025
+  IRIF (Paris, France)
+  Host: Thomas Colcombet
 * June 4 – July 4, 2025  
   The University of Oxford (Oxford, UK)  
   Host: Sandra Kiefer  
