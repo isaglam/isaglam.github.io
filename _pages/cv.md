@@ -112,7 +112,7 @@ Organization
   
 Research Visits
 ======
-* October 20 - October 24, 2025
+* October 20 - 24, 2025
   IRIF (Paris, France)
   Host: Thomas Colcombet
   
