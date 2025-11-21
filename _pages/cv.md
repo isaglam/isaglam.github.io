@@ -33,9 +33,9 @@ I have co-advised Munko Tsyrempilon (RPTU Kaiserslautern) together with Anne-Kat
 
 Publications
 ======
-* Incremental Data-Driven Policy Synthesis via Game Abstractions [[AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [extended version](https://www.arxiv.org/abs/2511.11545)]   <span style="color:green"> **(oral presentation — 4.6% acceptance rate)** </span> Irmak Sağlam, Mahdi Nazeri, Alessandro Abate, Sadegh Soudjani, Anne-Kathrin Schmuck
+* Incremental Data-Driven Policy Synthesis via Game Abstractions [[AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [extended version](https://www.arxiv.org/abs/2511.11545)]   <span style="color:green"> **(oral presentation — 4.6% acceptance rate)** </span> Irmak Sağlam*, Mahdi Nazeri, Alessandro Abate, Sadegh Soudjani, Anne-Kathrin Schmuck
 
-* Quantitative Strategy Templates [[ATVA 2025](https://conf.researchr.org/info/atva-2025/accepted-papers), [extended version](https://arxiv.org/abs/2504.16528)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
+* Quantitative Strategy Templates [[ATVA 2025](https://link.springer.com/chapter/10.1007/978-3-032-08707-2_4), [extended version](https://arxiv.org/abs/2504.16528)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
 
 * Fair Quantitative Games [[FoSSaCS 2025](https://link.springer.com/chapter/10.1007/978-3-031-90897-2_16), [extended version](https://arxiv.org/abs/2501.17255)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
 
@@ -62,11 +62,11 @@ Satya Prakash Nayak, Irmak Sağlam, Anne-Kathrin Schmuck, K. S. Thejaswini
 
 * Synthesis of Controllable ptSTL Formulas
  [[SIU 2020](https://ieeexplore.ieee.org/document/9302190), [arXiv](https://arxiv.org/abs/2003.09918)]
-  Irmak Sağlam, Ebru Aydın Göl
+  Irmak Sağlam*, Ebru Aydın Göl
 
 * Cause Mining and Controller Synthesis with STL
  [[CDC 2019](https://www.semanticscholar.org/paper/Cause-Mining-and-Controller-Synthesis-with-STL-Saglam-Gol/5d24446a3e7196ffaf6f694b2bec4f85de30ed2f) | [arXiv](https://arxiv.org/abs/1904.03649)]
-  Irmak Sağlam, Ebru Aydın Göl
+  Irmak Sağlam*, Ebru Aydın Göl
 
 
 Master's Thesis
@@ -77,7 +77,6 @@ Master's Thesis
 Talks
 ======
 * [IRIF Automata Seminar](https://www.irif.fr/en/seminaires/automates/index) (October 24, 2025), "An Efficient Subclass of Fairness on Games on Graphs & Gadget Based Algorithms"
-
 * [Highlights 2025](https://highlights-conference.org/2025), "Fair Quantitative Games"
 * [University of Oxford, Verification Seminars](https://www.cs.ox.ac.uk/seminars/verification/) (June 12, 2025),  
   “An Efficient Subclass of Fairness in Games on Graphs: Theory and Gadget-Based Algorithms”  
