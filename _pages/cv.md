@@ -76,7 +76,7 @@ Master's Thesis
 
 Talks
 ======
-* IRIF Automata Seminar (October 24, 2025), "An Efficient Subclass of Fairness on Games on Graphs & Gadget Based Algorithms"
+* [IRIF Automata Seminar](https://www.irif.fr/en/seminaires/automates/index) (October 24, 2025), "An Efficient Subclass of Fairness on Games on Graphs & Gadget Based Algorithms"
 
 * [Highlights 2025](https://highlights-conference.org/2025), "Fair Quantitative Games"
 * [University of Oxford, Verification Seminars](https://www.cs.ox.ac.uk/seminars/verification/) (June 12, 2025),  
