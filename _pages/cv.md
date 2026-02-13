@@ -33,7 +33,7 @@ I have co-advised Munko Tsyrempilon (RPTU Kaiserslautern) together with Anne-Kat
 
 Publications
 ======
-* Incremental Data-Driven Policy Synthesis via Game Abstractions [[AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [extended version](https://www.arxiv.org/abs/2511.11545)]   <span style="color:green"> **(oral presentation — 4.6% acceptance rate)** </span> Irmak Sağlam*, Mahdi Nazeri, Alessandro Abate, Sadegh Soudjani, Anne-Kathrin Schmuck
+* Incremental Data-Driven Policy Synthesis via Game Abstractions [[AAAI 2026](https://www.semanticscholar.org/paper/Incremental-Data-Driven-Policy-Synthesis-via-Game-Sauglam-Nazeri/b62ddee5b3ea900c4a69a7acb11aade81e1c480e), [extended version](https://www.arxiv.org/abs/2511.11545)]   <span style="color:green"> **(oral presentation — 4.6% acceptance rate)** </span> Irmak Sağlam*, Mahdi Nazeri, Alessandro Abate, Sadegh Soudjani, Anne-Kathrin Schmuck
 
 * Quantitative Strategy Templates [[ATVA 2025](https://link.springer.com/chapter/10.1007/978-3-032-08707-2_4), [extended version](https://arxiv.org/abs/2504.16528)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
 
