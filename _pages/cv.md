@@ -33,6 +33,8 @@ I have co-advised Munko Tsyrempilon (RPTU Kaiserslautern) together with Anne-Kat
 
 Publications
 ======
+* Infinite-state Games with Energy Objectives Beyond Counters [[ICALP 2026], [extended version](https://arxiv.org/abs/2605.05935)] Irmak Sağlam, Georg Zetzsche
+
 * Incremental Data-Driven Policy Synthesis via Game Abstractions [[AAAI 2026](https://www.semanticscholar.org/paper/Incremental-Data-Driven-Policy-Synthesis-via-Game-Sauglam-Nazeri/b62ddee5b3ea900c4a69a7acb11aade81e1c480e), [extended version](https://www.arxiv.org/abs/2511.11545)]   <span style="color:green"> **(oral presentation — 4.6% acceptance rate)** </span> Irmak Sağlam*, Mahdi Nazeri, Alessandro Abate, Sadegh Soudjani, Anne-Kathrin Schmuck
 
 * Quantitative Strategy Templates [[ATVA 2025](https://link.springer.com/chapter/10.1007/978-3-032-08707-2_4), [extended version](https://arxiv.org/abs/2504.16528)] Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, Anne-Kathrin Schmuck
@@ -41,7 +43,7 @@ Publications
 
 * A Decremental Algorithm for Fair Büchi Games <span style="color:green"> **(Distinguished Paper)** </span> [[ATVA 2024](https://www.springerprofessional.de/en/a-decremental-algorithm-for-fair-buechi-games/50591690)] Irmak Sağlam, Anne-Kathrin Schmuck, Munko Tsyrempilon
 
-* Fair omega-Regular Games [[FoSSaCS 2024](https://link.springer.com/chapter/10.1007/978-3-031-57228-9_2)]
+* Fair omega-Regular Games [[FoSSaCS 2024](https://link.springer.com/chapter/10.1007/978-3-031-57228-9_2), [extended version](https://arxiv.org/abs/2310.13612)]
 Daniel Hausmann, Nir Piterman, Irmak Sağlam, Anne-Kathrin Schmuck
 
 * Rabin Games and Colourful Universal Trees [[TACAS 2024](https://link.springer.com/chapter/10.1007/978-3-031-57256-2_11) | [extended version](https://arxiv.org/abs/2401.07548)]
