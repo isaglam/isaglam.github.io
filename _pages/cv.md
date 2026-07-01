@@ -101,9 +101,9 @@ Talks
 * [WiL 2023](https://sites.google.com/view/wil2023/home), "Rabin Games and Colourful Universal Trees"
 * [MOVEP 2022](https://movep2022.cs.aau.dk/student.html), "Justification Graphs for Parity Games under Strong Transition Fairness"
 
-Subreviews
+Sub/External reviews
 ======
-TACAS'26, AAAI'26, FSTTCS'25, MFCS'25, ICALP'25, CAV'25, ICALP'24, VMCAI'24, TACAS'24
+LICS'26, TACAS'26, AAAI'26, FSTTCS'25, MFCS'25, ICALP'25, CAV'25, ICALP'24, VMCAI'24, TACAS'24
 
 Organization
 ======
