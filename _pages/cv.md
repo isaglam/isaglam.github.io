@@ -33,7 +33,7 @@ I have co-advised Munko Tsyrempilon (RPTU Kaiserslautern) together with Anne-Kat
 
 Publications
 ======
-* Infinite-state Games with Energy Objectives Beyond Counters [[ICALP 2026], [extended version](https://arxiv.org/abs/2605.05935)] Irmak Sağlam, Georg Zetzsche
+* Infinite-state Games with Energy Objectives Beyond Counters [[ICALP 2026](https://doi.org/10.4230/LIPIcs.ICALP.2026.191), [extended version](https://arxiv.org/abs/2605.05935)] Irmak Sağlam, Georg Zetzsche
 
 * Incremental Data-Driven Policy Synthesis via Game Abstractions [[AAAI 2026](https://www.semanticscholar.org/paper/Incremental-Data-Driven-Policy-Synthesis-via-Game-Sauglam-Nazeri/b62ddee5b3ea900c4a69a7acb11aade81e1c480e), [extended version](https://www.arxiv.org/abs/2511.11545)]   <span style="color:green"> **(oral presentation — 4.6% acceptance rate)** </span> Irmak Sağlam*, Mahdi Nazeri, Alessandro Abate, Sadegh Soudjani, Anne-Kathrin Schmuck
 
